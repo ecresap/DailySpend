@@ -1,0 +1,2 @@
+# DailySpending
+Version 1.0.0 — mobile daily budget calculator, expense planner and historical trends. Data stays on your device. Enable GitHub Pages from the main branch, root folder, then open the published URL in Safari and choose Share > Add to Home Screen.
